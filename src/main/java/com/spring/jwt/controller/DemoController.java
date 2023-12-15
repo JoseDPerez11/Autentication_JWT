@@ -1,4 +1,4 @@
-package com.spring.jwt.controllers;
+package com.spring.jwt.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
